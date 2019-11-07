@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by John Horner
+A simple demo, by John Horner, for DMIT-2018 
